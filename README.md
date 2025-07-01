@@ -105,7 +105,7 @@ String url = 'https://api.openweathermap.org/data/2.5/forecast?q=${widget.city}&
 | ![Login](./captures/login.png) | ![Credentials](./captures/credentials.png) | ![Drawer](./captures/drawer.png) | ![Weather](./captures/home.png) | ![Logout](./captures/logout.png) |
 
 | Contacts | Details | Gallery | Counter |
-|---|---|---|---|---|
+|---|---|---|---|
 | ![Contacts](./captures/contacts.png) | ![Details](./captures/details.png) | ![Gallery](./captures/gallery.png) | ![Counter](./captures/counter.png) |
 
 | City Selection | Rabat Screen | Weather |
