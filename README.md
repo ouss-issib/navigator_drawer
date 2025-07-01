@@ -16,4 +16,20 @@ Ce projet a été réalisé pour apprendre la gestion d’état avec `Provider`,
 ---
 
 ## 📂 Structure du projet Flutter
-
+├── lib/
+│ ├── main.dart # Point d’entrée et routing
+│ ├── providers/
+│ │ └── auth_provider.dart # Gestion auth avec Provider
+│ ├── widgets/
+│ │ ├── my_drawer.dart # Menu drawer personnalisé
+│ │ ├── weather.dart # Widget affichage météo
+│ │ └── weather_form.dart # Formulaire de saisie ville
+│ ├── pages/
+│ │ └── login.page.dart # Page de connexion
+│ │ └── counter.page.dart # Page de counter app
+│ │ └── gallery.page.dart # Gellerie d'images
+│ │ └── contacts.page.dart # Liste des contacts
+│ │ └── home.page.dart # Page d'acceuil
+│ │ └── meteo.page.dart # Page de météo
+│ └── global/
+│ └── global_parameters.dart # Menus & routes
