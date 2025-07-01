@@ -100,9 +100,13 @@ String url = 'https://api.openweathermap.org/data/2.5/forecast?q=${widget.city}&
 
 ## 📸 Captures d’écran
 
-| Login | Credentials | Drawer Menu | Home | Logout |
-|---|---|---|---|---|
-| ![Login](./captures/login.png) | ![Credentials](./captures/credentials.png) | ![Drawer](./captures/drawer.png) | ![Weather](./captures/home.png) | ![Logout](./captures/logout.png) |
+| Login | Credentials | Drawer Menu |
+|---|---|---|
+| ![Login](./captures/login.png) | ![Credentials](./captures/credentials.png) | ![Drawer](./captures/drawer.png) |
+
+| Home | Logout |
+|---|---|
+| ![Weather](./captures/home.png) | ![Logout](./captures/logout.png) |
 
 | Contacts | Details | Gallery | Counter |
 |---|---|---|---|
