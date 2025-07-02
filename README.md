@@ -16,6 +16,7 @@ Ce projet a été réalisé pour apprendre la gestion d’état avec `Provider`,
 ---
 
 ## 📂 Structure du projet Flutter
+```
 ├── lib/
 │ ├── main.dart # Point d’entrée et routing
 │ ├── providers/
@@ -33,7 +34,7 @@ Ce projet a été réalisé pour apprendre la gestion d’état avec `Provider`,
 │ │ └── meteo.page.dart # Page de météo
 │ └── global/
 │ └── global_parameters.dart # Menus & routes
-
+```
 
 
 ---
